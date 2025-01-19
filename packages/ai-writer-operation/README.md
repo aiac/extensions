@@ -10,7 +10,7 @@ This operation contains some configuration options - an Api-Key, a selection of 
 ![The output showing a string that has been grammatically fixed.](https://raw.githubusercontent.com/directus-labs/extensions/main/packages/ai-writer-operation/docs/output.png)
 
 ### API-Keys
-You can generate your API-Keys on the follosing sites:
+You can generate your API-Keys on the following sites:
 - [OpenAI](https://platform.openai.com/api-keys)
 - [Anthropic](https://console.anthropic.com/settings/workspaces/default/keys)
 - [Replicate](https://replicate.com/account/api-tokens)
